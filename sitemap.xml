@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://yonetin.github.io/blog/2013/05/08/chu-meteji-shi-woshu-kimasita/</loc>
+        <lastmod>2013-05-08T22:34:41+09:00</lastmod>
+    </url>
+    <url>
         <loc>http://yonetin.github.io/blog/archives/</loc>
-        <lastmod>2013-05-08T21:48:43+09:00</lastmod>
+        <lastmod>2013-05-08T22:49:38+09:00</lastmod>
     </url>
     <url>
         <loc>http://yonetin.github.io/</loc>
-        <lastmod>2013-05-08T21:48:43+09:00</lastmod>
+        <lastmod>2013-05-08T22:50:45+09:00</lastmod>
     </url>
     <url>
         <loc>http://yonetin.github.io/robots.txt</loc>
