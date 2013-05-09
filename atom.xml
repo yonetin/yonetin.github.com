@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[yomemoya]]></title>
+  <title><![CDATA[yomemoma]]></title>
   <link href="http://yonetin.github.io/atom.xml" rel="self"/>
   <link href="http://yonetin.github.io/"/>
-  <updated>2013-05-09T22:31:14+09:00</updated>
+  <updated>2013-05-09T22:49:36+09:00</updated>
   <id>http://yonetin.github.io/</id>
   <author>
     <name><![CDATA[yonetin]]></name>
