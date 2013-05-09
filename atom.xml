@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://yonetin.github.io/atom.xml" rel="self"/>
   <link href="http://yonetin.github.io/"/>
-  <updated>2013-05-09T01:21:34+09:00</updated>
+  <updated>2013-05-09T22:23:00+09:00</updated>
   <id>http://yonetin.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Dropboxのパブリックフォルダから画像を読み込ませてみましたよ]]></title>
+    <link href="http://yonetin.github.io/blog/2013/05/09/dropboxfalsepaburitukuhuorudakarahua-xiang-wogong-kai-sitemimasita/"/>
+    <updated>2013-05-09T22:03:00+09:00</updated>
+    <id>http://yonetin.github.io/blog/2013/05/09/dropboxfalsepaburitukuhuorudakarahua-xiang-wogong-kai-sitemimasita</id>
+    <content type="html"><![CDATA[<p><img src="https://dl.dropboxusercontent.com/u/5341077/IMG_0998.jpg"></p>
+
+<p>聞くところによると、Dropboxに保存した画像はUSから600msかけて表示されるらしい。
+Dropboxさん、ぼくのためにわざわざありがとうございます。この記事に免じて容量増やしてもらえると助かります。</p>
+
+<p>タイトルとは全然関係ないんですが、最近はDHCP discoverの動作にやられております。
+クライアントPCが複数のVLANにまたがって存在するんです（そういうことができる機器を入れている）が、特定のセグメントのIPアドレスしか配布されません。
+ブロードキャストの送信元の設定に優先度をかけられると思うのですが、そうした設定項目は見受けられず。これってベンダー独自の実装なんでしょうかね。RFCを覗くと真実が見えてくるのかもしれないですがいかがなものか。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[初めて記事を書きました]]></title>
