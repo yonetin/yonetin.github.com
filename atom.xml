@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[yomemoma]]></title>
   <link href="http://yonetin.github.io/atom.xml" rel="self"/>
   <link href="http://yonetin.github.io/"/>
-  <updated>2013-05-12T01:11:18+09:00</updated>
+  <updated>2013-05-12T01:44:16+09:00</updated>
   <id>http://yonetin.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[yonetin]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -18,7 +18,15 @@
     <link href="http://yonetin.github.io/blog/2013/05/12/taitorukao-erufalsemian-dao-kusai/"/>
     <updated>2013-05-12T01:10:00+09:00</updated>
     <id>http://yonetin.github.io/blog/2013/05/12/taitorukao-erufalsemian-dao-kusai</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p><img src="https://dl.dropboxusercontent.com/u/5341077/IMG0292.png"></p>
+
+<p>文字を大量に読むと気分が優れず、特に何もできない一日でした。
+低血糖による影響なのかわかりませんが、空腹によって気分が悪くなるという初めての体験をしました。</p>
+
+<p>まあ何もしないのも勿体無い話ですので、図書館で予約していた「たのしいRuby」が折よく届いていたので受け取りにいきました。入門書なので既知の内容も多いかもしれませんが、最近Rubyに触れられていないので本書で一気に総ざらいしたいと思っています。</p>
+
+<p>図書館は最近けっこう利用していて、今日は貸し出しだけじゃなく本の返却も行いました。ITILの実践本を返したのですが、内容にはあまり満足できませんでした。
+現場に合わせてルールを決めていくので、ITILの導入を一口に語れないのはわかります。けど、もっと現場のノウハウに特化した書籍があっていいのにな。あったら是非教えてください。</p>
 ]]></content>
   </entry>
   
