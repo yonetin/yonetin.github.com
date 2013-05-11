@@ -4,7 +4,7 @@
   <title><![CDATA[yomemoma]]></title>
   <link href="http://yonetin.github.io/atom.xml" rel="self"/>
   <link href="http://yonetin.github.io/"/>
-  <updated>2013-05-09T22:49:36+09:00</updated>
+  <updated>2013-05-11T10:21:55+09:00</updated>
   <id>http://yonetin.github.io/</id>
   <author>
     <name><![CDATA[yonetin]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[DHCPのRFC読んだり、サポートサイト和訳したり]]></title>
+    <link href="http://yonetin.github.io/blog/2013/05/11/dhcpfalserfcdu-ndari%2C-sapotosaitohe-yi-sitari/"/>
+    <updated>2013-05-11T08:53:00+09:00</updated>
+    <id>http://yonetin.github.io/blog/2013/05/11/dhcpfalserfcdu-ndari,-sapotosaitohe-yi-sitari</id>
+    <content type="html"><![CDATA[<p><img src="https://dl.dropboxusercontent.com/u/5341077/IMG_0981.jpg">_</p>
+
+<p>昨日から課題だった複数のVLANにまたがって存在するクライアントPCからのDHCP discoverに対する応答の標準が存在するのか、RFCなり製品マニュアルから探す一日でした。</p>
+
+<p>こうした調査は海外製品でローカライズされていない機器ほどやりやすいと感じます。下手に日本語対応すると、エラーメッセージの和訳がイマイチだったり、マニュアルが一部英語だったり、ローカライズそのものが阻害要因となってしまう場合もあります。</p>
+
+<p>日本語化せずに製品を利用すれば、日本語より母数の多い英語話者が書いたBlogや掲示板の質問などが多数ありますので、製品を扱うハードルが下がってきます。</p>
+
+<p>そうした英語資料を読んだ内容をまとめるだけで感謝されたりしますし、割がいい仕事になる場合もあります。</p>
+
+<p>今回は機器名に multiple VLAN だとか local physical address だとか付けたら答えが出てきてくれました。割と毎回素直に出てきてくれるので、この方法は重宝します。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Dropboxのパブリックフォルダから画像を読み込ませてみましたよ]]></title>
