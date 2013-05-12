@@ -4,7 +4,7 @@
   <title><![CDATA[yomemoma]]></title>
   <link href="http://yonetin.github.io/atom.xml" rel="self"/>
   <link href="http://yonetin.github.io/"/>
-  <updated>2013-05-12T01:46:00+09:00</updated>
+  <updated>2013-05-12T23:45:25+09:00</updated>
   <id>http://yonetin.github.io/</id>
   <author>
     <name><![CDATA[yonetin]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Diary]]></title>
+    <link href="http://yonetin.github.io/blog/2013/05/12/diary/"/>
+    <updated>2013-05-12T23:40:00+09:00</updated>
+    <id>http://yonetin.github.io/blog/2013/05/12/diary</id>
+    <content type="html"><![CDATA[<p><img src="https://dl.dropboxusercontent.com/u/5341077/IMG0871.png"></p>
+
+<p>特にすることもなく新宿紀伊国屋書店へ。</p>
+
+<p>今のCCNPの試験範囲ってどのへんまでなのかなーとか、ITILとか統制管理系の書籍ってあるのかなとか、久々に色々と見て回りました。</p>
+
+<p>結局、初学者向けの統計学の書籍を購入。理系の学士ではあるものの、かなり忘れていたので中学数学で理解できると触れ込みのものを選択。読む本が溜まってきてますので、ぼちぼち処理していきたいな。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[タイトル考えるの面倒くさい]]></title>
