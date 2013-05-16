@@ -4,7 +4,7 @@
   <title><![CDATA[yomemoma]]></title>
   <link href="http://yonetin.github.io/atom.xml" rel="self"/>
   <link href="http://yonetin.github.io/"/>
-  <updated>2013-05-14T00:42:21+09:00</updated>
+  <updated>2013-05-16T22:30:20+09:00</updated>
   <id>http://yonetin.github.io/</id>
   <author>
     <name><![CDATA[yonetin]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[マンキュー経済学 入門篇]]></title>
+    <link href="http://yonetin.github.io/blog/2013/05/16/mankiyujing-ji-xue-ru-men-pian/"/>
+    <updated>2013-05-16T22:18:00+09:00</updated>
+    <id>http://yonetin.github.io/blog/2013/05/16/mankiyujing-ji-xue-ru-men-pian</id>
+    <content type="html"><![CDATA[<p><img src="https://dl.dropboxusercontent.com/u/5341077/IMG1055.png"></p>
+
+<p>半月近く図書館で借りております。中盤まで読み進めました。利子率と投資の密接な関係、インフレ率と実生活の影響など、常識が覆される感じがたまりません。</p>
+
+<p>全く体験したことがない学問だけど、教科書中に現れる数式を書き出していくと意外と理解が進みます。数学的な知識が必要だったことも今のところありません。Tipsで、2つの値の積の変化率は、それぞれの値の変化率の和である性質が、経済学の様々な事象を理解する手助けになる。といった程度に触れられるだけです。</p>
+
+<p>がんばって読み進めたいけど、図書館に一度返して第2ラウンドになるかもしれないなあ。</p>
+
+<p>ところでGithub Pages、しばらく落ちてましたよね。</p>
+
+<p>@githubstatus を見る限り、Github Pagesのパフォーマンス低下から含めると1日以上まともに使えていなかったことがわかります。</p>
+
+<p>現時点では日記用途だけなので、ホスティング先を替えるまで検討する気もないですが、動いている動いてないくらいはウォッチしていこうかな。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[わからないことを聞くということ]]></title>
